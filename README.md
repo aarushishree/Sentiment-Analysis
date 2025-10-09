@@ -59,7 +59,7 @@ Web Scraping: Selenium
 
 🔧 Workflow
 
-Data Collection: Selenium-based web scraping of reviews from LG product pages.
+Data Collection: Selenium-based web scraping of reviews from product pages.
 
 Data Cleaning & Preprocessing:
 
