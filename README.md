@@ -4,7 +4,7 @@ This repository contains a comprehensive sentiment analysis pipeline for web-scr
 
 📌 Project Overview
 
-Collected review data using Selenium-based web scraping from LG product review sources.
+Collected review data using Selenium-based web scraping from product review sources.
 
 Implemented text preprocessing and cleaning including stopword removal, lowercasing, punctuation removal, and domain-specific word filtering.
 
