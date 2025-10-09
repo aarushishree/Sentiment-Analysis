@@ -42,6 +42,8 @@ Developed a BERT-based transformer model for binary sentiment classification (Po
 Evaluated models using accuracy, F1 score, classification report, and confusion matrices.
 
 Visualized model comparison across different approaches.
+
+
 🛠 Tech Stack
 
 Languages: Python
@@ -53,6 +55,8 @@ Data Handling: Excel, CSV
 ML Models: Naive Bayes, Logistic Regression, SVM, Random Forest, Gradient Boosting, XGBoost, BERT
 
 Web Scraping: Selenium
+
+
 🔧 Workflow
 
 Data Collection: Selenium-based web scraping of reviews from LG product pages.
@@ -86,6 +90,8 @@ Transformer-based BERT model for advanced classification
 Evaluation: Accuracy, F1 score, classification report, and confusion matrix for all models.
 
 Visualization: Bar plot comparing model accuracies.
+
+
 📊 Results
 
 BERT achieved the highest accuracy: ~76.9% on binary sentiment classification.
@@ -93,6 +99,8 @@ BERT achieved the highest accuracy: ~76.9% on binary sentiment classification.
 Classical ML models ranged from ~65% to 69% accuracy.
 
 Confusion matrices and classification reports provided for all models.
+
+
 ⚡ Key Features
 
 End-to-end sentiment analysis pipeline
@@ -104,6 +112,8 @@ Multiple classical and deep learning models
 Visualization of insights (wordclouds, top n-grams, sentiment distributions)
 
 Comparison of model performances
+
+
 📂 Files in the Repo
 
 lgdataset1.xlsx – Raw review dataset
@@ -115,6 +125,8 @@ textblob_sentiment_reviews.xlsx – Reviews labeled with TextBlob sentiment
 sentiment_analysis_models.ipynb – Full code and analysis notebook
 
 accuracy_plot.png – Model accuracy comparison
+
+
 🔗 References
 
 [NLTK Documentation](https://www.nltk.org/)
