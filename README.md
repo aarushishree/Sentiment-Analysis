@@ -2,7 +2,7 @@ ML-Based Sentiment Analysis of Reviews | LG Electronics Internship
 
 This repository contains a comprehensive sentiment analysis pipeline for web-scraped product reviews. The project uses classical machine learning, NLP techniques, and transformer-based deep learning models to classify reviews as Positive, Negative, or Neutral.
 
-📌 Project Overview
+Project Overview:
 
 Collected review data using Selenium-based web scraping from product review sources.
 
@@ -44,7 +44,7 @@ Evaluated models using accuracy, F1 score, classification report, and confusion 
 Visualized model comparison across different approaches.
 
 
-🛠 Tech Stack
+Tech Stack:
 
 Languages: Python
 
@@ -57,7 +57,7 @@ ML Models: Naive Bayes, Logistic Regression, SVM, Random Forest, Gradient Boosti
 Web Scraping: Selenium
 
 
-🔧 Workflow
+Workflow:
 
 Data Collection: Selenium-based web scraping of reviews from product pages.
 
@@ -92,7 +92,7 @@ Evaluation: Accuracy, F1 score, classification report, and confusion matrix for 
 Visualization: Bar plot comparing model accuracies.
 
 
-📊 Results
+Results:
 
 BERT achieved the highest accuracy: ~76.9% on binary sentiment classification.
 
@@ -101,7 +101,7 @@ Classical ML models ranged from ~65% to 69% accuracy.
 Confusion matrices and classification reports provided for all models.
 
 
-⚡ Key Features
+Key Features:
 
 End-to-end sentiment analysis pipeline
 
@@ -114,7 +114,7 @@ Visualization of insights (wordclouds, top n-grams, sentiment distributions)
 Comparison of model performances
 
 
-📂 Files in the Repo
+Files in the Repo:
 
 lgdataset1.xlsx – Raw review dataset
 
@@ -127,7 +127,7 @@ sentiment_analysis_models.ipynb – Full code and analysis notebook
 accuracy_plot.png – Model accuracy comparison
 
 
-🔗 References
+References:
 
 [NLTK Documentation](https://www.nltk.org/)
 
@@ -137,7 +137,7 @@ accuracy_plot.png – Model accuracy comparison
 
 [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
 
-📈 Future Work
+Future Work:
 
 Fine-tune BERT and transformer models for multi-class sentiment analysis (Positive, Negative, Neutral).
 
